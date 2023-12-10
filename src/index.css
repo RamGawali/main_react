@@ -1,0 +1,47 @@
+body {
+  /* background-image: linear-gradient(black,yellow); */
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MyNavbar{
+    padding-top: 30px;
+    background-color: rgb(186, 218, 25);
+    font-size: x-large;
+}
+.button-style{
+  margin-right: 50px;
+  width:100px;
+  height:35px;
+  font-size: 20px;
+  margin-top: 2px;
+  padding-bottom: 5px;
+  background-color: rgb(218, 134, 25);
+  border-radius: 5px;
+}
+
+.userform{
+  background-color: rgb(203, 171, 176);
+  background-image: url("https://img.freepik.com/premium-vector/book-day-illustration-wallpaper-boy-reading-banner_94145-116.jpg");
+  background-repeat: no-repeat ;
+}
+
+.myCard{
+  width: 270px;
+  height: 10px;
+  margin-top: 50px;
+  background-color: blueviolet;
+}
+
+.home{
+  margin-top: 30px;
+}
